@@ -2,7 +2,7 @@
 
 ### :technologist: About me:
 I'm a Junior Web Developer from Poland :poland:.
-- :wrench: I’m working @ MTA Digital and contribute both to frontend and backend of our projects.
+- :wrench: I work @ [MTA Digital](https://mta.digital/) and contribute both to frontend and backend of our projects.
 - :book: I'm learning [Laravel](https://github.com/laravel) and [Vue](https://github.com/vuejs) ATM. 
 
 <br>
