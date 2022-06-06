@@ -1,4 +1,4 @@
-<div class="main">
+<div class="main" align="center">
   <div class="greeting">
     <h1>
       Hello
