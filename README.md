@@ -1,4 +1,4 @@
-<div class="main" align="center">
+<div class="main">
   <div class="greeting">
     <h1>
       Hello
@@ -8,7 +8,7 @@
 </div>
 
 ### :technologist: About me:
-I am a Junior Web Developer from Poland :poland:.
+I'm a Junior Web Developer from Poland :poland:.
 - :wrench: I’m working @ MTA Digital and contribute both to frontend and backend of our projects.
 - :book: I'm learning [Laravel](https://github.com/laravel) and [Vue](https://github.com/vuejs) ATM. 
 
