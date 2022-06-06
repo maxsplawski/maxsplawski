@@ -1,11 +1,4 @@
-<div class="main">
-  <div class="greeting">
-    <h1>
-      Hello
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
-    </h1>
-  </div>
-</div>
+# :wave: Hello 
 
 ### :technologist: About me:
 I'm a Junior Web Developer from Poland :poland:.
@@ -33,6 +26,6 @@ I'm a Junior Web Developer from Poland :poland:.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxsplawski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :handshake: Connect with me:
-<a href="your-linkedin-URL](https://www.linkedin.com/in/maksymilian-sp%C5%82awski-0a6766230/">
+<a href="https://www.linkedin.com/in/maksymilian-sp%C5%82awski-0a6766230/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
