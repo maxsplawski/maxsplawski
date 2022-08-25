@@ -18,7 +18,7 @@ I'm a Web Developer from Poland :poland:.
 
 <br>
 
-### Stats :
+### Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maxsplawski&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 
