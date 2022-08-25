@@ -1,13 +1,12 @@
 # :wave: Hello 
 
-### :technologist: About me:
 I'm a Web Developer from Poland :poland:.
-- :wrench: I work @ [MTA Digital](https://mta.digital/) and contribute both to frontend and backend of our projects.
-- :book: I'm learning [Laravel](https://github.com/laravel) and [Vue](https://github.com/vuejs) ATM. 
+- I work @ [MTA Digital](https://mta.digital/) and contribute both to frontend and backend of our projects.
+- I'm learning [Laravel](https://github.com/laravel) and [Vue](https://github.com/vuejs) ATM. 
 
 <br>
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="60" height="60"/>&nbsp;
@@ -19,13 +18,11 @@ I'm a Web Developer from Poland :poland:.
 
 <br>
 
-### :chart_with_upwards_trend: My Stats :
+### Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maxsplawski&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxsplawski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :handshake: Connect with me:
+### Connect with me:
 <a href="https://www.linkedin.com/in/maksymilian-sp%C5%82awski-0a6766230/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
